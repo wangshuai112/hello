@@ -1,0 +1,88 @@
+> info: Welcome to Appium v1.4.16 (REV ae6877eff263066b26328d457bd285c0cc62430d)
+> info: Appium REST http interface listener started on 127.0.0.1:4723
+> info: [debug] Non-default server args: {"address":"127.0.0.1","logNoColors":true,"platformName":"Android","platformVersion":"23","automationName":"Appium"}
+> info: Console LogLevel: debug
+> info: --> POST /wd/hub/session {"desiredCapabilities":{"appPackage":"com.android.calculator2","appActivity":".Calculator","platformVersion":"4.2.2","browserName":"","platformName":"Android","deviceName":"Android Emulator"}}
+> info: Client User-Agent string: Apache-HttpClient/4.3.4 (java 1.5)
+> info: [debug] Didn't get app but did get Android package, will attempt to launch it on the device
+> info: [debug] Creating new appium session 6969f603-25e3-46d6-83e7-efab364425d2
+> info: Starting android appium
+> info: [debug] Getting Java version
+> info: [debug] Cleaning up android objects
+> info: [debug] Cleaning up appium session
+> error: Failed to start an Appium session, err was: Error: 'java -version' failed. Error: Command failed: C:\windows\system32\cmd.exe /s /c "java -version"
+> 锟杰撅拷锟斤拷锟绞★拷
+> 
+> info: [debug] Error: 'java -version' failed. Error: Command failed: C:\windows\system32\cmd.exe /s /c "java -version"
+> 锟杰撅拷锟斤拷锟绞★拷
+> 
+>     at [object Object].<anonymous> (C:\Program Files (x86)\Appium\node_modules\appium\lib\devices\android\android-common.js:1057:17)
+>     at ChildProcess.exithandler (child_process.js:758:5)
+>     at ChildProcess.emit (events.js:110:17)
+>     at maybeClose (child_process.js:1016:16)
+>     at Process.ChildProcess._handle.onexit (child_process.js:1088:5)
+> info: [debug] Responding to client with error: {"status":33,"value":{"message":"A new session could not be created. (Original error: 'java -version' failed. Error: Command failed: C:\\windows\\system32\\cmd.exe /s /c \"java -version\"\n锟杰撅拷锟斤拷锟绞★拷\r\n)","origValue":"'java -version' failed. Error: Command failed: C:\\windows\\system32\\cmd.exe /s /c \"java -version\"\n锟杰撅拷锟斤拷锟绞★拷\r\n"},"sessionId":null}
+> info: <-- POST /wd/hub/session 500 4018.049 ms - 380 
+> info: --> POST /wd/hub/session {"desiredCapabilities":{"appPackage":"com.android.calculator2","appActivity":".Calculator","platformVersion":"4.2.2","browserName":"","platformName":"Android","deviceName":"Android Emulator"}}
+> info: Client User-Agent string: Apache-HttpClient/4.3.4 (java 1.5)
+> info: [debug] Didn't get app but did get Android package, will attempt to launch it on the device
+> info: [debug] Creating new appium session 7950ca90-6a23-40e1-a3cd-dcdd16f3633f
+> info: Starting android appium
+> info: [debug] Getting Java version
+> info: [debug] Cleaning up android objects
+> info: [debug] Cleaning up appium session
+> error: Failed to start an Appium session, err was: Error: 'java -version' failed. Error: Command failed: C:\windows\system32\cmd.exe /s /c "java -version"
+> 锟杰撅拷锟斤拷锟绞★拷
+> 
+> info: [debug] Error: 'java -version' failed. Error: Command failed: C:\windows\system32\cmd.exe /s /c "java -version"
+> 锟杰撅拷锟斤拷锟绞★拷
+> 
+>     at [object Object].<anonymous> (C:\Program Files (x86)\Appium\node_modules\appium\lib\devices\android\android-common.js:1057:17)
+>     at ChildProcess.exithandler (child_process.js:758:5)
+>     at ChildProcess.emit (events.js:110:17)
+>     at maybeClose (child_process.js:1016:16)
+>     at Process.ChildProcess._handle.onexit (child_process.js:1088:5)
+> info: [debug] Responding to client with error: {"status":33,"value":{"message":"A new session could not be created. (Original error: 'java -version' failed. Error: Command failed: C:\\windows\\system32\\cmd.exe /s /c \"java -version\"\n锟杰撅拷锟斤拷锟绞★拷\r\n)","origValue":"'java -version' failed. Error: Command failed: C:\\windows\\system32\\cmd.exe /s /c \"java -version\"\n锟杰撅拷锟斤拷锟绞★拷\r\n"},"sessionId":null}
+> info: <-- POST /wd/hub/session 500 2676.327 ms - 380 
+> info: --> POST /wd/hub/session {"desiredCapabilities":{"appPackage":"com.android.calculator2","appActivity":".Calculator","platformVersion":"4.2.2","browserName":"","platformName":"Android","deviceName":"Android Emulator"}}
+> info: Client User-Agent string: Apache-HttpClient/4.3.4 (java 1.5)
+> info: [debug] Didn't get app but did get Android package, will attempt to launch it on the device
+> info: [debug] Creating new appium session 14554e59-84ca-45c3-b268-8b1d22aee2be
+> info: Starting android appium
+> info: [debug] Getting Java version
+> info: [debug] Cleaning up android objects
+> info: [debug] Cleaning up appium session
+> error: Failed to start an Appium session, err was: Error: 'java -version' failed. Error: Command failed: C:\windows\system32\cmd.exe /s /c "java -version"
+> 锟杰撅拷锟斤拷锟绞★拷
+> 
+> info: [debug] Error: 'java -version' failed. Error: Command failed: C:\windows\system32\cmd.exe /s /c "java -version"
+> 锟杰撅拷锟斤拷锟绞★拷
+> 
+>     at [object Object].<anonymous> (C:\Program Files (x86)\Appium\node_modules\appium\lib\devices\android\android-common.js:1057:17)
+>     at ChildProcess.exithandler (child_process.js:758:5)
+>     at ChildProcess.emit (events.js:110:17)
+>     at maybeClose (child_process.js:1016:16)
+>     at Process.ChildProcess._handle.onexit (child_process.js:1088:5)
+> info: [debug] Responding to client with error: {"status":33,"value":{"message":"A new session could not be created. (Original error: 'java -version' failed. Error: Command failed: C:\\windows\\system32\\cmd.exe /s /c \"java -version\"\n锟杰撅拷锟斤拷锟绞★拷\r\n)","origValue":"'java -version' failed. Error: Command failed: C:\\windows\\system32\\cmd.exe /s /c \"java -version\"\n锟杰撅拷锟斤拷锟绞★拷\r\n"},"sessionId":null}
+> info: <-- POST /wd/hub/session 500 12101.398 ms - 380 
+> info: --> POST /wd/hub/session {"desiredCapabilities":{"appPackage":"com.android.calculator2","appActivity":".Calculator","platformVersion":"4.2.2","browserName":"","platformName":"Android","deviceName":"Android Emulator"}}
+> info: Client User-Agent string: Apache-HttpClient/4.3.4 (java 1.5)
+> info: [debug] Didn't get app but did get Android package, will attempt to launch it on the device
+> info: [debug] Creating new appium session e7abde47-5b94-4ffa-ab04-b08c63b3307f
+> info: Starting android appium
+> info: [debug] Getting Java version
+> info: [debug] Cleaning up android objects
+> error: Failed to start an Appium session, err was: Error: 'java -version' failed. Error: Command failed: C:\windows\system32\cmd.exe /s /c "java -version"
+> 锟杰撅拷锟斤拷锟绞★拷
+> 
+> info: [debug] Cleaning up appium session
+> info: [debug] Error: 'java -version' failed. Error: Command failed: C:\windows\system32\cmd.exe /s /c "java -version"
+> 锟杰撅拷锟斤拷锟绞★拷
+> 
+>     at [object Object].<anonymous> (C:\Program Files (x86)\Appium\node_modules\appium\lib\devices\android\android-common.js:1057:17)
+>     at ChildProcess.exithandler (child_process.js:758:5)
+>     at ChildProcess.emit (events.js:110:17)
+>     at maybeClose (child_process.js:1016:16)
+>     at Process.ChildProcess._handle.onexit (child_process.js:1088:5)
+> info: [debug] Responding to client with error: {"status":33,"value":{"message":"A new session could not be created. (Original error: 'java -version' failed. Error: Command failed: C:\\windows\\system32\\cmd.exe /s /c \"java -version\"\n锟杰撅拷锟斤拷锟绞★拷\r\n)","origValue":"'java -version' failed. Error: Command failed: C:\\windows\\system32\\cmd.exe /s /c \"java -version\"\n锟杰撅拷锟斤拷锟绞★拷\r\n"},"sessionId":null}
+> info: <-- POST /wd/hub/session 500 15652.533 ms - 380 
